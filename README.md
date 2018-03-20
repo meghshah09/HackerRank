@@ -18,10 +18,12 @@ At HackerLand University, a passing grade is any grade 40 points or higher on a 
 Sample Input 0
 
 4 //denotes the total no of students.
+
 73
 67
 38
 33
+
 Sample Output 0
 
 75
